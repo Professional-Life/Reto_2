@@ -1,4 +1,4 @@
-RETO 2:
+# RETO 2:
 
 Deseamos notificar a los estudiantes sobre una incidencia por la cual no se celebrarán la clase programadas para el siguiente día en el instituto. Esta incidencia afecta a dos asignaturas y sólo afecta a los alumnos que asisten a la sede ubicada en Málaga. La información de la que disponemos son tres listas de los estudiantes que están matriculados en cada asignatura:
 
